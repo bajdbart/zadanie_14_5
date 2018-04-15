@@ -10,6 +10,7 @@ var Contact = React.createClass({
                 },
                 React.createElement('img', {
                     className: 'contactImage',
+                    alt: 'contact',
                     src: 'http://icons.veryicon.com/ico/System/100%20Flat%20Vol.%202/contacts.ico'
                 }),
                 React.createElement('p', {
